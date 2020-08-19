@@ -3,7 +3,7 @@
 
 {
     'name': 'Odoo 13 Accounting PDF Reports',
-    'version': '13.0.1.0.1',
+    'version': '13.0.1.1.2',
     'category': 'Invoicing Management',
     'summary': 'Accounting Reports For Odoo 13',
     'sequence': '10',
@@ -12,7 +12,7 @@
     'company': 'Odoo Mates',
     'maintainer': 'Odoo Mates',
     'support': 'odoomates@gmail.com',
-    'website': '',
+    'website': 'http://odoomates.tech',
     'depends': ['account'],
     'live_test_url': 'https://www.youtube.com/watch?v=Qu6R3yNKR60',
     'demo': [],
